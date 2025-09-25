@@ -1,0 +1,40 @@
+body {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 20px;
+}
+
+canvas {
+  background-color: #87ceeb;
+  border: 4px solid #000;
+  display: block;
+  margin: 0 auto;
+}
+
+#startBtn {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+#startBtn:hover {
+  background-color: #218838;
+}
+
+#countdown {
+  font-size: 36px;
+  color: white;
+  margin-top: 10px;
+}
