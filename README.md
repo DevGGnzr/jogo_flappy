@@ -39,23 +39,7 @@ flapbird/
 └── README.md          # Documentação
 ```
 
-## 🎯 Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/DevGGnzr/jogo_flappy.git
-```
-
-2. Navegue até o diretório:
-```bash
-cd jogo_flappy
-```
-
-3. Abra o arquivo `index.html` no seu navegador preferido
-
-**Ou acesse diretamente**: [Jogar Flappy Quadrado](https://devggnzr.github.io/jogo_flappy)
-
-## 🎮 Controles
+##  Controles
 
 | Ação | Controle |
 |------|----------|
@@ -84,25 +68,3 @@ cd jogo_flappy
 - ✅ Safari
 - ✅ Edge
 - ✅ Dispositivos móveis (responsivo)
-
-## 🤝 Contribuições
-
-Sinta-se à vontade para contribuir com melhorias:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 👨‍💻 Desenvolvedor
-
-**DevGGnzr** - [GitHub](https://github.com/DevGGnzr)
-
----
-
-⭐ Se você gostou do projeto, não esqueça de dar uma estrela!
